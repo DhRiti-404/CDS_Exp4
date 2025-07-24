@@ -20,7 +20,7 @@ In this program, students will learn to apply the following bitwise operators:
 
 ---
 
-### Program: `exp4.cpp` – Bitwise Operations Demonstration
+### 🔸 Program: `exp4.cpp` – Bitwise Operations Demonstration
 This program:
 - Takes two integers as input from the user
 - Performs and displays the result of various bitwise operations
