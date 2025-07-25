@@ -4,13 +4,11 @@ using namespace std;
 int main() {
     int a, b;
 
-    // Input from user
     cout << "Enter first integer (a): ";
     cin >> a;
     cout << "Enter second integer (b): ";
     cin >> b;
 
-    // Bitwise operations
     cout << "\nBitwise Operations Results:\n";
     cout << "---------------------------\n";
     cout << "a & b  (AND)        = " << (a & b) << endl;
